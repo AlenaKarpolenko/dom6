@@ -6,11 +6,10 @@ h1{
 }
 
 .cage {
-    background-color: aquamarine;
+    background-color: yellow;
     width: 140px;
     height: 140px;
-    border: 2px solid #f83a3a;
-    border-radius: 30px;
+    border: 2px solid blue;
     margin: 2px;
     padding: 2px;
 }
